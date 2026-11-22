@@ -1,0 +1,47 @@
+recording_id,file,condition,fault_type,bubble_location,failed_valve,opening_ratio_%,label_condition
+178,Case178.csv,Abnormal,Bubble,BP2,-,-,Anomaly
+179,Case179.csv,Abnormal,SV fault,-,SV2,25,Fault
+180,Case180.csv,Normal,-,-,-,-,Normal
+181,Case181.csv,Abnormal,SV fault,-,SV4,50,Fault
+182,Case182.csv,Normal,-,-,-,-,Normal
+183,Case183.csv,Normal,-,-,-,-,Normal
+184,Case184.csv,Abnormal,Unknown,-,-,-,Unknown
+185,Case185.csv,Normal,-,-,-,-,Normal
+186,Case186.csv,Abnormal,Bubble,BP6,-,-,Anomaly
+187,Case187.csv,Normal,-,-,-,-,Normal
+188,Case188.csv,Abnormal,SV fault,-,SV1,25,Fault
+189,Case189.csv,Normal,-,-,-,-,Normal
+190,Case190.csv,Abnormal,SV fault,-,SV3,50,Fault
+191,Case191.csv,Normal,-,-,-,-,Normal
+192,Case192.csv,Abnormal,Unknown,-,-,-,Unknown
+193,Case193.csv,Abnormal,Bubble,BP1,-,-,Anomaly
+194,Case194.csv,Normal,-,-,-,-,Normal
+195,Case195.csv,Normal,-,-,-,-,Normal
+196,Case196.csv,Abnormal,Bubble,BP4,-,-,Anomaly
+197,Case197.csv,Abnormal,Bubble,BP7,-,-,Anomaly
+198,Case198.csv,Normal,-,-,-,-,Normal
+199,Case199.csv,Normal,-,-,-,-,Normal
+200,Case200.csv,Abnormal,Unknown,-,-,-,Unknown
+201,Case201.csv,Normal,-,-,-,-,Normal
+202,Case202.csv,Abnormal,SV fault,-,SV3,50,Fault
+203,Case203.csv,Normal,-,-,-,-,Normal
+204,Case204.csv,Abnormal,Bubble,BP3,-,-,Anomaly
+205,Case205.csv,Normal,-,-,-,-,Normal
+206,Case206.csv,Normal,-,-,-,-,Normal
+207,Case207.csv,Abnormal,Unknown,-,-,-,Unknown
+208,Case208.csv,Normal,-,-,-,-,Normal
+209,Case209.csv,Abnormal,Bubble,BP7,-,-,Anomaly
+210,Case210.csv,Normal,-,-,-,-,Normal
+211,Case211.csv,Normal,-,-,-,-,Normal
+212,Case212.csv,Normal,-,-,-,-,Normal
+213,Case213.csv,Normal,-,-,-,-,Normal
+214,Case214.csv,Abnormal,SV fault,-,SV4,50,Fault
+215,Case215.csv,Normal,-,-,-,-,Normal
+216,Case216.csv,Abnormal,Bubble,BP1,-,-,Anomaly
+217,Case217.csv,Normal,-,-,-,-,Normal
+218,Case218.csv,Abnormal,Unknown,-,-,-,Unknown
+219,Case219.csv,Abnormal,Bubble,BP5,-,-,Anomaly
+220,Case220.csv,Normal,-,-,-,-,Normal
+221,Case221.csv,Abnormal,Bubble,BP2,-,-,Anomaly
+222,Case222.csv,Abnormal,Unknown,-,-,-,Unknown
+223,Case223.csv,Normal,-,-,-,-,Normal
